@@ -1,25 +1,27 @@
 #SOLUCIONARIO
 
 ## Ejercicio 1 Definir partes conforman el UX y qué partes el UI de la web laboratora.
-![Laboratoria](RETOS-UX/0001.jpg)
-![Laboratoria](RETOS-UX/0002.jpg)
-![Laboratoria](RETOS-UX/0003.jpg)
-![Laboratoria](RETOS-UX/0004.jpg)
-![Laboratoria](RETOS-UX/0005.jpg)
-![Laboratoria](RETOS-UX/0006.jpg)
-![Laboratoria](RETOS-UX/0007.jpg)
-![Laboratoria](RETOS-UX/0008.jpg)
+![Laboratoria](laboratoria/0001.jpg)
+![Laboratoria](laboratoria/0002.jpg)
+![Laboratoria](laboratoria/0003.jpg)
+![Laboratoria](laboratoria/0004.jpg)
+![Laboratoria](laboratoria/0005.jpg)
+![Laboratoria](laboratoria/0006.jpg)
+![Laboratoria](laboratoria/0007.jpg)
+![Laboratoria](laboratoria/0008.jpg)
 
 ## Ejercicio 2 Identifica los elementos de navegación en github
-![GITHUB](NAVEGACION-GITHUB/github1.jpg)
-![GITHUB](NAVEGACION-GITHUB/github2.jpg)
-![GITHUB](NAVEGACION-GITHUB/github3.jpg)
-![GITHUB](NAVEGACION-GITHUB/github4.jpg)
-![GITHUB](NAVEGACION-GITHUB/github5.jpg)
-![GITHUB](NAVEGACION-GITHUB/github6.jpg)
-![GITHUB](NAVEGACION-GITHUB/github7.jpg)
-![GITHUB](NAVEGACION-GITHUB/github8.jpg)
-![GITHUB](NAVEGACION-GITHUB/github9.jpg)
+![GITHUB](github/github1.jpg)
+![GITHUB](github/github2.jpg)
+![GITHUB](github/github3.jpg)
+![GITHUB](github/github4.jpg)
+![GITHUB](github/github5.jpg)
+![GITHUB](github/github6.jpg)
+![GITHUB](github/github7.jpg)
+![GITHUB](github/github8.jpg)
+![GITHUB](github/github9.jpg)
+
+![Diagrama Maquetado](assets/images/maquetado-twitter.png)
 
 ## Ejercicio 3 Crea un sketch para la herramienta del dashboard de Laboratoria
 
