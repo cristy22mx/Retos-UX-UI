@@ -21,10 +21,8 @@
 ![GITHUB](github/github8.jpg)
 ![GITHUB](github/github9.jpg)
 
-![Diagrama Maquetado](assets/images/maquetado-twitter.png)
-
 ## Ejercicio 3 Crea un sketch para la herramienta del dashboard de Laboratoria
 
-![Dashboard](dashboard.jpg)
+![Dashboard](DASHBOARD.jpg)
 
 
